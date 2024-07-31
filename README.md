@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning git, github, and python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @juuli6nn on all socials
+- 📫 @juuli6nn on all socials
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the opposite sides of a die will always add to seven
 
