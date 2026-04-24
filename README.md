@@ -12,6 +12,7 @@ Hi, I’m Julian 👋🏼. A student who’s passionate about tech and constantl
 ![](https://streak-stats.demolab.com/?user=juuli6nn&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=juuli6nn&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j3jyu1gkgxszgbyd32a8nn5sl&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&mode=dark&bar_color=ffbb00&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=j3jyu1gkgxszgbyd32a8nn5sl&redirect=true)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
