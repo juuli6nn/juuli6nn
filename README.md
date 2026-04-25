@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" width="400" src="https://media.tenor.com/jVeKjpDN_cEAAAAe/blue-lock-isagi-youchi.png"  />
+</div>
+
 # 💫 About Me:
 Hi, I’m Julian 👋🏼. A student who’s passionate about tech and constant learning.<br>Currently, I am in the academe pursuing my bachelors in information technology while improving my skills in React for web development and diving into machine learning. <br>I enjoy and I'm as of the moment building projects that utilize these skills, especially exploring artificial intelligence to automate tasks and make things more efficient.
 
