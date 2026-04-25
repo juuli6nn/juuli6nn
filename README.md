@@ -1,27 +1,24 @@
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: none; padding: 12px 20px 12px 0; vertical-align: middle; width: 65%;">
-      <h1 style="margin: 0 0 6px; font-size: 1.6rem; line-height: 1.2;">
-        👋🏼 Arianne Julian Cruz
-      </h1>
-      <p style="margin: 0 0 10px; color: #8b949e; font-size: 1.05rem;">
-        <strong>tech</strong> • <strong>mnl</strong>
-      </p>
-      <p style="margin: 0; color: #c9d1d9; line-height: 1.5; font-size: 0.95rem;">
-        Passionate about tech and constant learning.<br>
-        Mastering <strong>React</strong> • Exploring <strong>ML/AI</strong>
-      </p>
-    </td>
-    <td align="right" style="border: none; padding: 12px 0 12px 12px; vertical-align: middle; width: 35%;">
-      <img 
-        src="https://images5.alphacoders.com/137/thumb-1920-1374683.png" 
-        height="220" 
-        style="border-radius: 16px; box-shadow: 0 6px 20px rgba(0,0,0,0.25); transition: transform 0.2s;"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img 
+    src="https://images5.alphacoders.com/137/thumb-1920-1374683.png" 
+    height="280" 
+    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 16px;"/>
+  
+  <p style="margin: 8px 0 4px; font-size: 2rem;">Arianne Julian Cruz</p>
+  <p style="margin: 0 0 12px; color: #666; font-size: 1.1rem;">
+    <strong>tech</strong> • <strong>mnl</strong> • <strong>IT Student</strong>
+  </p>
 
-## 🌐 Socials:
+</div>
+
+
+<div style="text-align: center; ">
+  Hi, I'm Julian 👋🏼, someone who enjoys learning and constantly growing in the world of tech.<br>
+  Currently, I'm pursuing my Bachelor's in Information Technology at <strong>FEU Institute of Technology</strong>. I'm focusing on my specialization in <strong>Web and Mobile Applications</strong>, while also exploring and diving deeper into <strong>Machine Learning</strong> :)
+</div>
+
+<br>
+
 <div style="text-align: center;">
   <a href="https://linkedin.com/in/juuli6nn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/julianofboolean"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
@@ -50,3 +47,4 @@
 
 <div align="center">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j3jyu1gkgxszgbyd32a8nn5sl&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&mode=dark&bar_color=ffbb00&bar_color_cover=true"/>
+</div>
