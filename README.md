@@ -4,17 +4,12 @@
     height="280" 
     style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 16px;"/>
   
-  <p style="margin: 8px 0 4px; font-size: 2rem;">Arianne Julian Cruz</p>
+  <p style="margin: 8px 0 4px; font-size: 10rem;">Arianne Julian Cruz</p>
   <p style="margin: 0 0 12px; color: #666; font-size: 1.1rem;">
     <strong>tech</strong> • <strong>mnl</strong> • <strong>IT Student</strong>
   </p>
 
 </div>
-
-<p align="center">
-  <strong style="font-size: 2rem;">Arianne Julian Cruz</strong><br>
-  <span style="color: #666; font-size: 1.1rem;"><strong>tech</strong> • <strong>mnl</strong> • <strong>IT Student</strong></span>
-</p>
 
 <p align="center">
   Hi, I'm Julian 👋🏼, someone who enjoys learning and constantly growing in the world of tech.<br>
