@@ -9,7 +9,9 @@
 
 <p align="center">
   Hi, I'm Julian 👋🏼, someone who enjoys learning and constantly growing in the world of tech.<br>
-  Currently, I'm pursuing my Bachelor's in Information Technology at <strong>FEU Institute of Technology</strong>. I'm focusing on my specialization in <strong>Web and Mobile Applications</strong>, while also exploring and diving deeper into <strong>Machine Learning</strong> :)
+  Currently, I'm pursuing my Bachelor's in Information Technology at 
+  <a href="https://www.feutech.edu.ph/" target="_blank"><strong>FEU Institute of Technology</strong></a>. 
+  I'm focusing on my specialization in <strong>Web and Mobile Applications</strong>, while also exploring and diving deeper into <strong>Machine Learning</strong> :)
 </p>
 
 <p align="center">
