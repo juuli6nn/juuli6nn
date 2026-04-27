@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  Hi, I'm Julian 👋🏼, someone who enjoys learning and constantly growing in the world of tech.<br><br>
+  Hi, I'm <strong>Julian</strong>strong> 👋🏼, someone who enjoys learning and constantly growing in the world of tech.<br><br>
   Currently, I'm pursuing my Bachelor's in Information Technology at 
   <a href="https://www.feutech.edu.ph/" target="_blank"><strong>FEU Institute of Technology</strong></a>. 
   I'm specializing in <strong>Web and Mobile Applications</strong>, where I work with <strong>PHP</strong> and <strong>Kotlin</strong> as part of this semester. 
