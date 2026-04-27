@@ -11,8 +11,8 @@
   Hi, I'm Julian 👋🏼, someone who enjoys learning and constantly growing in the world of tech.<br>
   Currently, I'm pursuing my Bachelor's in Information Technology at 
   <a href="https://www.feutech.edu.ph/" target="_blank"><strong>FEU Institute of Technology</strong></a>. 
-  I'm focusing on my specialization in <strong>Web and Mobile Applications</strong> by leveraging and using <strong>PHP</strong>  and <strong>Kotlin</strong>,
-  while also improving my skills in <strong>React</strong> and diving deeper into <strong>Machine Learning</strong> :)
+  I'm specializing in <strong>Web and Mobile Applications</strong>, where I work with <strong>PHP</strong> and <strong>Kotlin</strong> as part of my coursework. 
+  At the same time, I'm independently improving my skills in <strong>React</strong> and diving deeper into <strong>Machine Learning</strong> :)
 </p>
 
 <p align="center">
