@@ -21,6 +21,22 @@
   <a href="mailto:ajuliancruzzz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+## 🚀 Currently Shipping:
+
+<div align="center">
+  <a href="https://everythingarsenal.com" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Everything_Arsenal-EF0107?style=for-the-badge&logo=target&logoColor=white" alt="Everything Arsenal"/>
+  </a>
+  <p>
+    Building a digital home for Arsenal FC enthusiasts—integrating match insights and club updates.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  </p>
+</div>
+
 ## 💻 Tech Stack:
 
 ### Frontend
