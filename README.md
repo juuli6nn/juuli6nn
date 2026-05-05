@@ -23,19 +23,11 @@
 
 ## 🚀 Currently Shipping:
 
-<div align="center">
-  <a href="https://everythingarsenal.com" target="_blank">
-    <img src="https://img.shields.io/badge/Project-Everything_Arsenal-EF0107?style=for-the-badge&logo=target&logoColor=white" alt="Everything Arsenal"/>
-  </a>
-  <p>
-    Building a digital home for Arsenal FC enthusiasts—integrating match insights and club updates.
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  </p>
-</div>
+**[errthingarsenal]([https://everythingarsenal.com](https://github.com/juuli6nn/errthingarsenal))** — **a passion filled home built for the gunners**
+
+A comprehensive hub for Arsenal FC fans that aggregates real-time match data, player statistics, and club news. Built for high performance and clean data visualization to keep fans updated on every matchday.
+
+`React` `Tailwind CSS` `Vite` `Typescript` 
 
 ## 💻 Tech Stack:
 
