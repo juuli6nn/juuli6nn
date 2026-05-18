@@ -1,9 +1,4 @@
 <div align="center">
-  <img 
-    src="https://images5.alphacoders.com/137/thumb-1920-1374683.png" 
-    height="280" 
-    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 16px;"/>
-  
   <h1>Arianne Julian Cruz</h1>
 </div>
 
