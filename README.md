@@ -18,12 +18,6 @@
 
 ## 🚀 Currently Shipping:
 
-### **[errthingarsenal](https://github.com/juuli6nn/errthingarsenal)** — **a passion filled home built for the gunners**
-
-A comprehensive hub for Arsenal FC fans that aggregates real-time match data, player statistics, and club news. Built for high performance and clean data visualization to keep fans updated on every matchday.
-
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 ## 💻 Tech Stack:
 
 ### Frontend
