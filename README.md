@@ -1,6 +1,11 @@
 <div align="center">
   <h1>Arianne Julian Cruz</h1>
 </div>
+<p align="center">
+  <a href="https://linkedin.com/in/juuli6nn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/julianofboolean"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
+  <a href="mailto:ajuliancruzzz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 <p align="center">
   Hi, I'm <strong>Julian</strong> 👋🏼, someone who enjoys learning and constantly growing in the world of tech.<br><br>
@@ -67,8 +72,4 @@
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j3jyu1gkgxszgbyd32a8nn5sl&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&mode=dark&bar_color=ffbb00&bar_color_cover=true"/>
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/juuli6nn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/julianofboolean"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
-  <a href="mailto:ajuliancruzzz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+
