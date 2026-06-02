@@ -10,15 +10,7 @@
   At the same time, I'm independently improving my skills in <strong>React</strong> and diving deeper into <strong>Machine Learning</strong> :)
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/juuli6nn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/julianofboolean"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
-  <a href="mailto:ajuliancruzzz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-## 🚀 Currently Shipping:
-
-## 💻 Tech Stack:
+## 💻 Tech :
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -74,3 +66,9 @@
 <div align="center">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j3jyu1gkgxszgbyd32a8nn5sl&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&mode=dark&bar_color=ffbb00&bar_color_cover=true"/>
 </div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/juuli6nn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/julianofboolean"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
+  <a href="mailto:ajuliancruzzz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
