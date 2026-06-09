@@ -30,10 +30,10 @@ Chrome extension that auto-fills FEU Tech evaluation forms. One-click to apply h
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juuli6nn&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+      <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=juuli6nn&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=juuli6nn&theme=swift&hide_border=true"/>
+      <img height="170" src="https://streak-stats.demolab.com/?user=juuli6nn&theme=swift&hide_border=true"/>
     </td>
   </tr>
 </table>
