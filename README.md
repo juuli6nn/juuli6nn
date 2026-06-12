@@ -1,7 +1,7 @@
 <div align="center">
 
 # Arianne Julian Cruz
-
+**information technology · feu institute of technology**
 <br>
 [linkedin](https://linkedin.com/in/juuli6nn) · [x / twitter](https://x.com/julianofboolean) · [email](mailto:ajuliancruzzz@gmail.com)
 
