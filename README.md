@@ -12,9 +12,6 @@
 ---
 
 ## projects
----
-
-## projects
 
 [Codocs](https://github.com/juuli6nn/Codocs) · `JavaScript` `CSS` `HTML`
 
