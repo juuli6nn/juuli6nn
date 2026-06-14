@@ -17,9 +17,6 @@
 
 Chrome extension that brings syntax-highlighted, dark IDE-style code blocks directly into Google Docs. No copy-pasting into external tools — format in place.
 
-[AutoForm](https://github.com/juuli6nn/AutoForm) · `JavaScript` `CSS` `HTML`
-
-Chrome extension that auto-fills FEU Tech evaluation forms. One-click to apply highest, lowest, or custom slider ratings — also handles frequency sections for institutional service evals.
 
 ---
 ## stack
