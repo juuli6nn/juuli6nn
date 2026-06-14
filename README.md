@@ -35,11 +35,3 @@ Chrome extension that brings syntax-highlighted, dark IDE-style code blocks dire
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j3jyu1gkgxszgbyd32a8nn5sl&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&mode=dark&bar_color=ffbb00&bar_color_cover=true"/>
-
-</div>
