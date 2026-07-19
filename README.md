@@ -20,6 +20,7 @@ Chrome extension that brings syntax-highlighted, dark IDE-style code blocks dire
 [claude-indicator](https://github.com/juuli6nn/claude-indicator) · `Python` `PySide6` `psutil` `pywin32`
 
 Floating status pill for Claude Code.
+
 ---
 ## stack
 
