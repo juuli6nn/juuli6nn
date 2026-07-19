@@ -17,7 +17,9 @@
 
 Chrome extension that brings syntax-highlighted, dark IDE-style code blocks directly into Google Docs. No copy-pasting into external tools — format in place.
 
+[claude-indicator](https://github.com/juuli6nn/claude-indicator) · `Python` `PySide6` `psutil` `pywin32`
 
+Floating status pill for Claude Code.
 ---
 ## stack
 
